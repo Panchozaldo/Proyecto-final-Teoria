@@ -1,0 +1,22 @@
+﻿  Camera.cpp
+  figuras.cpp
+c:\users\fezs_\desktop\p11\p11\figuras.cpp(20): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+c:\users\fezs_\desktop\p11\p11\figuras.cpp(99): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+c:\users\fezs_\desktop\p11\p11\figuras.cpp(152): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+c:\users\fezs_\desktop\p11\p11\figuras.cpp(222): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+c:\users\fezs_\desktop\p11\p11\figuras.cpp(293): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+c:\users\fezs_\desktop\p11\p11\figuras.cpp(365): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+c:\users\fezs_\desktop\p11\p11\figuras.cpp(436): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+c:\users\fezs_\desktop\p11\p11\figuras.cpp(645): warning C4101: 'theta': variable local sin referencia
+c:\users\fezs_\desktop\p11\p11\figuras.cpp(645): warning C4101: 'phi': variable local sin referencia
+c:\users\fezs_\desktop\p11\p11\figuras.cpp(872): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+  main_prac11new.cpp
+  texture.cpp
+c:\users\fezs_\desktop\p11\p11\texture.cpp(12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: vea la declaración de 'fopen'
+c:\users\fezs_\desktop\p11\p11\texture.cpp(48): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: vea la declaración de 'strcpy'
+c:\users\fezs_\desktop\p11\p11\texture.cpp(84): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: vea la declaración de 'fopen'
+  Generando código...
+  P11.vcxproj -> C:\Users\fezs_\Desktop\P11\Debug\P11.exe
